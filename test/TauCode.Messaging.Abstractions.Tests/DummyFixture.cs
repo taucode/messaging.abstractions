@@ -8,6 +8,6 @@ public class DummyFixture
     [Test]
     public void DummyTest()
     {
-        Assert.Pass("Added for passing Azure DevOps.");
+        Assert.Pass("Added for CI/CD.");
     }
 }
