@@ -1,4 +1,4 @@
-﻿namespace TauCode.Messaging.Abstractions;
+﻿namespace TauCode.Messaging;
 
 public interface IMessage
 {
